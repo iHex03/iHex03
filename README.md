@@ -1,5 +1,5 @@
 # Oi, tudo bem? 👋
-Aluno de ciência da computação, cursando o 6º período.
+Aluno de ciência da computação, cursando o 7º período.
 <div>
 ⚠ Bio not finished, please return later. ⚠
 

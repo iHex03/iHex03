@@ -1,7 +1,7 @@
 # Olá! Prazer, eu sou o Marcel 👋
 
 - 🔭 Atualmente cursando o 8º período de Ciência da Computação no IFSP-Salto
-- 🌱 Procurando saber mais de Segurança da Informação, Inteligência Artificial e Front-End
+- 🌱 Procurando saber mais de Segurança da Informação, Inteligência Artificial e Web Dev
 - 📫 Email: dev.mmattos@gmail.com
 - 😄 Pronomes: ele/dele
 - ⚡ Fascinado por jogos de tabuleiro, videogames e batalhas de robô 🤖
@@ -15,7 +15,7 @@
 Here are some ideas to get you started:
 
 - 🔭 Atualmente cursando o 8º período de Ciência da Computação no IFSP-Salto
-- 🌱 Procurando saber mais de Segurança da Informação, Inteligência Artificial e Front-End
+- 🌱 Procurando saber mais de Segurança da Informação, Inteligência Artificial e Web Dev
 - 📫 Email: dev.mmattos@gmail.com
 - 😄 Pronomes: ele/dele
 - ⚡ Fascinado por jogos de tabuleiro, videogames e batalhas de robô 🤖

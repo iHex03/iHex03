@@ -1,6 +1,6 @@
 # Olá! Prazer, eu sou o Marcel 👋
 
-- 🔭 Atualmente cursando o 8º período de Ciência da Computação no IFSP-Salto
+- 🔭 Ciência da Computação no IFSP-Salto
 - 🌱 Procurando saber mais de Segurança da Informação, Inteligência Artificial e Web Dev
 - 📫 Email: dev.mmattos@gmail.com
 - 😄 Pronomes: ele/dele
